@@ -1,3 +1,8 @@
+.padding-general{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
 .my-navbar{
     background-color: #2c3e50;
 }
@@ -16,8 +21,17 @@
     width: 200px;
 }
 
-.hr{
+.star-margin{
+    margin:0 15px;
+}
+
+.hr-w{
     border: 2px solid white;
+    display: inline-block;
+    width: 20%;
+}
+.hr{
+    border: 2px solid black;
     display: inline-block;
     width: 20%;
 }
@@ -27,23 +41,16 @@
 
 .bg-jumbo{
     background-color: #1abc9c;
+    color: white;
 }
 
 .bg-footer{
     background-color: #3a546d;
 }
 
-
-header, footer{
-    color: white;
-}
-
-.centered{
-    text-align: center;
-}
-
 .box{
     margin: 15px 0;
     min-height: 100px;
-    background-color: #ba4b63;
 }
+    
+    
