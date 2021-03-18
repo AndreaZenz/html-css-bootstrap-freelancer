@@ -11,6 +11,10 @@
     margin-bottom: 0;
 }
 
+.mt-10{
+    margin-top: 10px;
+}
+
 .my-navbar .navbar-nav>li>a,
 .my-navbar .navbar-brand{
     color: white;
